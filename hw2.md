@@ -1,6 +1,6 @@
 Hercules loved Deianira. **Amāuit**
 
-Deianira was loved by Hercules. **Amātus est **
+Deianira was loved by Hercules. **Amātus est**
 
 Juno sent serpents to kill Hercules. **Mīsit**
 
@@ -10,7 +10,7 @@ Apollo was given into slavery to Admetus, king of Thessaly. **Datit est**
 
 Messengers were sent. **Missi sunt**
 
-The daughters were given in marriage ** datae sunt**
+The daughters were given in marriage **datae sunt**
 
 To escape the flood, Deucalion and Pyrrha fled to the mountains. **fūgērunt**
 
