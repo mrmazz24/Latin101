@@ -7,12 +7,15 @@
 5. The nominative case is used to name the subject of a verb
 
 1. Amor- masculine nominative singular. Deianirae- Feminine genitive plural❌
-2. deus- mascuiline nominative singular.  amoris- masculine genitive singular
-3. amor- masculine nomative singular. deorum- Masculine genitive plural
-4. Herculis- masculine nominative singular❌. canis- masculine genitive singular❌
-5. nomen- masculine nomative singular. dei- masculine genitive singular
-6. filii- Masculine nominative plural. deorum- masculine genitive plural
-7. nomina- Feminine nominative singular❌. filiorum- masculine genitive plural
+Revised: Deianirae- Feminine genitive singular
+3. deus- mascuiline nominative singular.  amoris- masculine genitive singular
+4. amor- masculine nomative singular. deorum- Masculine genitive plural
+5. Herculis- masculine nominative singular❌. canis- masculine genitive singular❌
+Revised: Herculis- Masculine genitive singular. Canis- Masculine nominative singular.
+7. nomen- masculine nomative singular. dei- masculine genitive singular
+8. filii- Masculine nominative plural. deorum- masculine genitive plural
+9. nomina- Feminine nominative singular❌. filiorum- masculine genitive plural
+Revised: Neuter nominative plural.
 
 "Amor Deianirae" means Deianira's Love, or the love of Deianira.
 **How dop these differ in English?**
