@@ -10,7 +10,7 @@ Second Declension
 Terrae is genitive, working with filius in the accusative.
 
 (4) What is the antecedent of hic?
-Antaus is the antecedent of hic.
+Antaeus is the antecedent of hic.
 
 (5) What case is armis?
 Armis is in the ablative case.
@@ -26,3 +26,6 @@ Apposita est is third singular indicative perfect passive .
 
 (9) What is the antecedent of eam?
 Laomedonta is the antecedent.
+
+Hercules killed Antaeus, the son of earth, in Libya. He was killing visitors; he killed them by wrestling. Cygnum, Martis' son, was killed by weapons. 
+Mars arrived with his son and weapons and drew his bow, but Jupiter threw a lighning bult at them. Hesione put a whale on Troy. It killed them. Hesione's son Laomedonta, who returned, killed them with arrows. 
