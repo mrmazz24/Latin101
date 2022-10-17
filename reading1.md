@@ -32,3 +32,7 @@ Laomedonta is the antecedent.❌
 
 Hercules killed Antaeus, the son of earth, in Libya. He was killing visitors; he killed them❌ by wrestling. Cygnum, Martis' son, was killed❌ by weapons. 
 Mars arrived with❌ his son and weapons and drew his bow, but Jupiter threw a lighning bult at them. Hesione put a whale❌ on Troy. It killed them❌. Hesione's son Laomedonta, who returned, killed them with arrows. ❌
+
+Revised:
+Hercules killed the son of the earth, Antaeus, in Libya. He was killing his guests, but Hercules wrestled him to death. Hercules killed Cygnum, Martis' son, with weapons. Mars came armed to fight with Hercules for the sake of his son, but Jupiter through a lightning bolt between them. Hesione was exposed to a whale near Troy. Hercules killed the whale.
+Hercules killed Laomedon, the father of Hesione, with arrows because he wasn't returning hesione.
