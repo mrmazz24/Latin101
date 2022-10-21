@@ -5,7 +5,7 @@ Antaeum, terrae filium, in Libyā Hercules occidit. hic hospites interficiebat; 
 
 
 Occidit: To kill, third singular indicative perfect active 
-Interficiebat: To kill, third singular imperfect❓ perfect❓ active❌
+Interficiebat: To kill, third singular perfect❓ imperfect❓ active❌ Revision: Third, singular, indicative, imperfect active.
 Necauit: to slay, Third singular indicative perfect active
 Occidit:  To kill, third singular indicative perfect active 
 Uenit: To come, Third singular indicative perfect active
@@ -31,22 +31,22 @@ Ablative:  Prioribus Deis
 The prior mentioned ship  ❌
 
 Singular Feminine:
-Nominative: haec navis
-Genitive: huius navis
-Dative: huic navi
-Accusative: hanc nave
-Ablative: hac navem
+Nominative: haec navis Revision: illa navis
+Genitive: huius navis Revision: illius navis
+Dative: huic navi     Revision: illi navi
+Accusative: hanc nave  Revision: illam nave
+Ablative: hac navem.   Revision: illa navem
 
 Plural Feminine:
-Nominative: Hae naves
-Genitive: Harum navum
-Dative: his navibus
-Accusative: has naves
-Ablative: his navebas
+Nominative: Hae naves  Revision: illae naves
+Genitive: Harum navum Revision:  illarum navum
+Dative: his navibus   Revision:  illis navibus
+Accusative: has naves. Revision: illas naves
+Ablative: his navebas  Revision: illis navebas
 
 Capio:
-Imperfect Active: capebat❌
-Imperfect Passive: capebatur❌
+Imperfect Active: capebat❌  Revised: capiebat
+Imperfect Passive: capebatur❌. Revised: Capiebatur
 Perfect Active: Cepit
 Perfect Passive: Capta est
 
