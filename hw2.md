@@ -1,4 +1,4 @@
-**+1 Needs 1 correction**
+**+2 Satisfactory**
 
 Hercules loved Deianira. **Amāuit**
 
@@ -8,7 +8,7 @@ Juno sent serpents to kill Hercules. **Mīsit**
 
 The lion of Nemea was killed by Hercules. (Lion is masculine in Latin.) **Interfectus est**
 
-Apollo was given into slavery to Admetus, king of Thessaly. **Datus est** ❌
+Apollo was given into slavery to Admetus, king of Thessaly. **Datus est** 
 
 Messengers were sent. **Missi sunt**
 
