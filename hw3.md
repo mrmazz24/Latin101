@@ -1,4 +1,4 @@
-**Needs revisions**
+**+2 Satisfactory**
 
 Perfect active: **amauit**
 Perfect passive: **Amatus est, amata est, amatum est.**
@@ -6,19 +6,19 @@ Imperfect active: **Amabat**
 Imperfect passive: **Amabatur**
 
 Perfect active: **audiuerent**❌
-Perfect Active: Audiurunt
+Perfect Active: Audiuerunt ✅
 Perfect passive: **auditi sunt, auditae sunt, audita sunt**
 Imperfect active: **audibanti**❌
-Revised: **audiebant**
+Revised: **audiebant** ✅
 Imperfect passive: **audibantur**❌
-Revised: **audiebantur**
+Revised: **audiebantur** ✅
 
 Perfect active: **Cepit**
 Perfect passive: **Captus est, capta est, captum est**
 Imperfect active: **Capebat**❌
-Revised: **Capiebat**
+Revised: **Capiebat** ✅
 Imperfect passive: **Capebatur**❌
-Revised: **Capiebatur**
+Revised: **Capiebatur** ✅
 
 Word: First part, person, number, tense, mood, voice
 **Uenērunt**: uenio, third, plural, perfect, indicative, active
