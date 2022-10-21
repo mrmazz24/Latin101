@@ -1,3 +1,4 @@
+**+1 Great first draft.  One sentence to review.**
 Daedalus pennas **sibi** et Icaro filio fecit.
 Daedalus made wings for his son Icarus and himself.
 
@@ -14,4 +15,4 @@ Ulysses fluctibus iactabatur; Leucothea balteum **ei** dedit et **sibi** pectus 
 Ulysses was tossed by waves. Leucothea gave him a garment and he strapped it to his own chest.
 
 Achelous fluuius in omnes figuras **se** immutabat. **hic** cum Hercule propter Deianirae coniugium pugnauit, et in taurum **se** conuertit.
-Achelous transforms himself into all figures in the river. He then fought Hercules over his marraige to Deianara, and turned himself into a bull.
+Achelous transforms himself into all figures in the river. He then fought Hercules over his marraige to Deianara, and turned himself into a bull. ❌
