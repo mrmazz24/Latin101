@@ -7,8 +7,10 @@ Revised: **Nioba uxor amphionis erat.** ✅
 **Amphion et Niobe habebant liberos multos.** ❌ ✅
 3. Leto repeatedly warned her, but Niobe did not listen to (“hear”) Leto.
 **Latona monebat eius, Nioba non auduit.** ❌
-Revised: 
+Revised: Latona monebat eam, sed Niobam non auduit.
 4. Apollo, the son of the latter woman, killed the sons of the former woman.
-**Apollo fillius Latonae interfecit fillii feminae prioris** ❌
+**Apollo fillius Latonae interfecit filii feminae prioris** ❌
+revised: Apollo fillius Latonae interfecit filios feminae prioris
 5.His sister Diana killed her daughters.
-Eius fratris Diana interfecti eius fillia. ❌
+Eius fratris Diana interfecti eius filia. ❌
+Revised: Eius fratris Diana interfecit eas filias.
