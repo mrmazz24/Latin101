@@ -18,7 +18,7 @@ Antaeus is the antecedent of hic.✅
 Armis is in the ablative case.✅
 
 (6) Explain the construction cum eo?
-eo is in the ablative✅, meaning that he was used to do an action.❌
+eo is in the ablative✅, meaning that he was used to do an action.❌  Revision: The ablative is used to say he was part of the fight.
 
 (7) Fully identify the form of fulmen. What function is it playing in the sentence? What type of sentence structure do we find in this sentence?
 Fulmen is third person, singular, indicative, accusative, active. ❌ **How do we identify a noun?**
@@ -28,7 +28,7 @@ It is used as a direct object in this sentence.✅
 Apposita est is third singular indicative perfect passive .✅
 
 (9) What is the antecedent of eam?
-Laomedonta is the antecedent.❌
+Laomedonta is the antecedent.❌ Revision: Hesione is the antecedent.
 
 Hercules killed Antaeus, the son of earth, in Libya. He was killing visitors; he killed them❌ by wrestling. Cygnum, Martis' son, was killed❌ by weapons. 
 Mars arrived with❌ his son and weapons and drew his bow, but Jupiter threw a lighning bult at them. Hesione put a whale❌ on Troy. It killed them❌. Hesione's son Laomedonta, who returned, killed them with arrows. ❌
