@@ -1,4 +1,4 @@
-**+1.  Needs revisions.**
+**+2 Satisfactory.**
 
 A regular Latin verb has four principle parts. 
 
