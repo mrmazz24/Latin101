@@ -1,11 +1,11 @@
-**+1 Nice! Nearly perfect.**
+**+2 Satisfactory**
 
 
 Antaeum, terrae filium, in Libyā Hercules occidit. hic hospites interficiebat; hunc luctando ille necauit. Cygnum, Martis filium, armis occidit. Mars uenit et armis propter filium contendit cum eo, sed Iouis inter eos fulmen misit.
 
 
 Occidit: To kill, third singular indicative perfect active 
-Interficiebat: To kill, third singular perfect❓ imperfect❓ active❌ Revision: Third, singular, indicative, imperfect active.
+Interficiebat: To kill, third singular perfect❓ imperfect❓ active❌ Revision: Third, singular, indicative, imperfect active. ✅
 Necauit: to slay, Third singular indicative perfect active
 Occidit:  To kill, third singular indicative perfect active 
 Uenit: To come, Third singular indicative perfect active
@@ -28,7 +28,7 @@ Dative: Prioribus deis
 Accusative: Priores Deos
 Ablative:  Prioribus Deis
 
-The prior mentioned ship  ❌
+The prior mentioned ship  ✅
 
 Singular Feminine:
 Nominative: haec navis Revision: illa navis
@@ -45,8 +45,8 @@ Accusative: has naves. Revision: illas naves
 Ablative: his navebas  Revision: illis navebas
 
 Capio:
-Imperfect Active: capebat❌  Revised: capiebat
-Imperfect Passive: capebatur❌. Revised: Capiebatur
+Imperfect Active: capebat❌  Revised: capiebat ✅ 
+Imperfect Passive: capebatur❌. Revised: Capiebatur ✅
 Perfect Active: Cepit
 Perfect Passive: Capta est
 
