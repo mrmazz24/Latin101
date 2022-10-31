@@ -16,3 +16,4 @@ Ulysses was tossed by waves. Leucothea gave him a garment and he strapped it to 
 
 Achelous fluuius in omnes figuras **se** immutabat. **hic** cum Hercule propter Deianirae coniugium pugnauit, et in taurum **se** conuertit.
 Achelous transforms himself into all figures in the river. He then fought Hercules over his marraige to Deianara, and turned himself into a bull. ❌
+Revision: The River Achelous changed itself into all different shapes. He fought with Hercules on account of Deinara's marriage, and changed himself into a bull.
