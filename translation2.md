@@ -1,7 +1,9 @@
+**+1 Very good! Just a few minor revisions.**
+
 A.
 Olim Prometheus, Iapetī fīlius prīmus, hominēs ex lutō **fingēbat**. Simul Vulcānus ex lutō fēminam **faciēbat**. 
-Minerva huic fēminae animam **dedit** et omnēs deī dōna eī **misērunt**. ob id nōmen “Pandōra” ei **datum** est.
-Pandōra ab Iove in coniugium Epimetheō **data** est. Fīlia eorum **erat** Pyrrha, prīma mortālis.
+Minerva huic fēminae animam **dedit** et omnēs deī dōna eī **misērunt**. ob id nōmen “Pandōra” ei **datum** est.❌
+Pandōra ab Iove in coniugium Epimetheō **data** est. ❌ Fīlia eorum **erat** Pyrrha, prīma mortālis.
 
 B.
 1. What is the grammatical function of Iapetī fīlius prīmus?
@@ -21,5 +23,5 @@ erat is imperfect active indicative, and the principle parts are sum, esse, fui,
 
 C.
 Long ago, Prometheus, first son of Iapeti, made man out of mud. At the same time, Vulcan made woman from mud. Minerva gave this woman a soul,
-and all of the gods gave gifts. The name Pandora was given to him. Pandora was given into marriage to Epimetheus by Jove. Their daughter was Pyrrah,
+and all of the gods gave gifts. The name Pandora was given to him❌. Pandora was given into marriage to Epimetheus by Jove. Their daughter was Pyrrah,
 the first mortal.
