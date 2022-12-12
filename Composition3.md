@@ -1,15 +1,2 @@
-Cum Achui non potuissent potitum esse Troiae ab decem annos, fecerunt equum ligneum. Hyginus scripsit equum factus est epius. 
-Achui abscondiderunt se in equum. Cassandra dicebat Achiui in sum equum, sed non credit. Troiae crediderunt Achui ab eo. Illa nocte, Troiae ponebat equum
-in templo, Achui ex eo et potibat Troiae.
-
-First Sentence: remove ab
-Second: Hyginus wrote taht the horse was made 
- indirect statement accusative subject with infiniteive (passive infinitive) **factum esse ab epeio** 
- Fourth: Achiuos in equo esse
- 
- Fifth, credebatur or credita est
- 
- Sixth: Troiani crediderunt Achiuos abisse. 
- 
- Last: Troiani posuierunt equum pro templo, Achiui exierunt et potiebantur Troiam.
- 
+Cum Achui non potuissent potitum esse Troiae decem annos, fecerunt equum ligneum. Hyginus scripsit factum esse ab epeio. 
+Achuios abscondiderunt se in equum. Cassandra dicebat Achiui in equo esse, sed non credita est. Troiani crediderunt est Achui abierunt. Illa nocte, Troiani posuierunt equum pro templo, Achiui exierunt et potiebantur Troiam.
