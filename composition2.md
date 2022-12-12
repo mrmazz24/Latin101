@@ -6,4 +6,4 @@ Cydippe precarit❌ deum actione magnum. Prima nocte, filii fessa❌ acquieverun
 
 
 Cydippe misit boues in agrium, sed ad tempus non rediuerunt. Sacra duci debebant a sacerdote, sed Cydippe non poterat se in uiam dare. 
-Cleops et Britias vuelerunt
+Cleops et Britias voluerunt ferre matris fratrem ad templio, sic ei iunxerunt se iugum. Ei ducerunt Cydippen in plaustrio horas. Cydippe precatus est deum actione magnum. Prima nocte, filii fessi acquiverunt sed ei numquam surrexerunt. Mori optimum donum mortali.
